@@ -1,2 +1,6 @@
 data
 data.zip
+.DS_Store
+__pycache__
+main.ipynb
+.gitignore

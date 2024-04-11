@@ -1,0 +1,25 @@
+Vocabulary of size 532 generated
+Max height by width is 800 by 800
+Working with 2 GPUs
+Training image to Latex model with 3548756 parameters
+Epoch 1   Train Loss: 3.0977, Validation Loss: 2.7174, Validation BLEU: 0.0769
+Epoch 2   Train Loss: 2.5993, Validation Loss: 2.2286, Validation BLEU: 0.0720
+Epoch 3   Train Loss: 2.2285, Validation Loss: 1.9068, Validation BLEU: 0.0665
+Epoch 4   Train Loss: 1.9923, Validation Loss: 1.7205, Validation BLEU: 0.0665
+Epoch 5   Train Loss: 1.8459, Validation Loss: 1.5917, Validation BLEU: 0.0665
+Epoch 6   Train Loss: 1.7345, Validation Loss: 1.4812, Validation BLEU: 0.0675
+Epoch 7   Train Loss: 1.6389, Validation Loss: 1.3844, Validation BLEU: 0.0672
+Epoch 8   Train Loss: 1.5557, Validation Loss: 1.3076, Validation BLEU: 0.0672
+Epoch 9   Train Loss: 1.4885, Validation Loss: 1.2504, Validation BLEU: 0.0669
+Epoch 10  Train Loss: 1.4359, Validation Loss: 1.2055, Validation BLEU: 0.0648
+Epoch 11  Train Loss: 1.3936, Validation Loss: 1.1695, Validation BLEU: 0.0648
+Epoch 12  Train Loss: 1.3600, Validation Loss: 1.1401, Validation BLEU: 0.0648
+Epoch 13  Train Loss: 1.3329, Validation Loss: 1.1171, Validation BLEU: 0.0648
+Epoch 14  Train Loss: 1.3120, Validation Loss: 1.0994, Validation BLEU: 0.0648
+Epoch 15  Train Loss: 1.2962, Validation Loss: 1.0863, Validation BLEU: 0.0648
+Epoch 16  Train Loss: 1.2850, Validation Loss: 1.0775, Validation BLEU: 0.0648
+Epoch 17  Train Loss: 1.2780, Validation Loss: 1.0723, Validation BLEU: 0.0648
+Epoch 18  Train Loss: 1.2737, Validation Loss: 1.0693, Validation BLEU: 0.0648
+Epoch 19  Train Loss: 1.2716, Validation Loss: 1.0682, Validation BLEU: 0.0648
+Epoch 20  Train Loss: 1.2712, Validation Loss: 1.0680, Validation BLEU: 0.0648
+Test Loss: 1.4238, Test BLEU: 0.0637
